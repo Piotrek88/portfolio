@@ -2,7 +2,7 @@ site_name: Moje projekty
 site_author: Piotr Pawłowski
 site_url: https://github.com/Piotrek88/portfolio
 site_description: >-
-    Portfolio moich wspaniałych projektów z Data Science i AI!
+    Portfolio moich projektów z Data Science i AI!
 
 repo_name: Piotrek88/portfolio
 repo_url: https://github.com/Piotrek88/portfolio
@@ -10,7 +10,7 @@ repo_url: https://github.com/Piotrek88/portfolio
 theme:
   name: material
   palette:
-    primary: yellow
+    primary: claret
 
 nav:
 - Strona Domowa: index.md
