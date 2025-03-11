@@ -1,4 +1,4 @@
-# Witam w mojej przestrzeni projektowej!<br>
+# Zapraszam do Mojej Przestrzeni Inspiracji i Twórczości! <br>
 ![alt text](naportfolio.jpg)<br>
 
 Witam! Nazywam się Piotr Pawłowski. Po 15 latach pracy jako kierowca ciężarówki odkryłem pasję do sztucznej inteligencji i pracy z danymi. Ukończyłem intensywne szkolenie "Od 0 do AI" i teraz, mimo braku wcześniejszego doświadczenia w programowaniu, tworzę aplikacje takie jak "Creative Paintings", generującą kolorowanki. Ponadto ukończyłem kilka projektów eksploracyjnej analizy danych (EDA). Aktualnie kontynuuję swoją edukację w ramach rozszerzonego kursu MasterClass, gdzie uczę się pracy zespołowej nad zaawansowanymi projektami. Nigdy nie przypuszczałem, że zostanę data scientist, ale ta dziedzina przynosi mi ogromną satysfakcję i radość. Czekam z niecierpliwością na kolejne wyzwania i projekty!
