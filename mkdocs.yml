@@ -13,9 +13,9 @@ theme:
     primary: claret
 
 nav:
-- Strona Domowa: index.md
-- Obecny projekt:
-  -
-- Poprzednie projekty:
-  - "Titanic": Titanic/index.md
-  - "Iris": Iris/index.md
+  - Strona Domowa: index.md
+  - Obecny projekt:
+    -
+  - Poprzednie projekty:
+    - "Titanic": Titanic/index.md
+    - "Iris": Iris/index.md
