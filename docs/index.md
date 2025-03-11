@@ -19,7 +19,7 @@ Zobacz, jak opowiadałem o mojej drodzę z AI i rozwoju w branży w podcaście "
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2Y-TFaJj0Q" title="Wywiad AI w Biznesie" frameborder="0" allowfullscreen></iframe>
 
-[Obejrzyj na YouTube](https://youtu.be/B2Y-TFaJj0Q) | 
+[Obejrzyj na YouTube](https://youtu.be/B2Y-TFaJj0Q) | <br>
 Kluczowe fragmenty:<br> Moja droga (00:40-10:39)<br>
                     Projekt Creative Paintings (10:40-22:45)<br>
                     Zaangażowanie (36:26-44:18)
