@@ -16,5 +16,5 @@ nav:
 - Strona Domowa: index.md
 - Obecny projekt:
 - Poprzednie projekty:
-  - "Titanic": docs/titanic/index.md
-  - "Iris": docs/iris/index.md
+  - "Titanic": Titanic/index.md
+  - "Iris": Iris/index.md
