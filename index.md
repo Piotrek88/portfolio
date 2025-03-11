@@ -1,0 +1,26 @@
+site_name: Moje projekty
+site_author: Piotr Pawłowski
+site_url: https://github.com/Piotrek88/portfolio
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+repo_name: Piotrek88/portfolio
+repo_url: https://github.com/Piotrek88/portfolio
+
+
+
+theme:
+  name: material
+  palette:
+    primary: claret
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+- Poprzednie projekty:
+  - "Titanic": titanic/index.md
+  - "Iris": iris/index.md
