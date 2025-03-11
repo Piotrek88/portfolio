@@ -1,4 +1,5 @@
-# Witam w mojej przestrzeni projektowej!
+# Witam w mojej przestrzeni projektowej!<br>
+![alt text](naportfolio.jpg)<br>
 
 Witam! Nazywam się Piotr Pawłowski. Po 15 latach pracy jako kierowca ciężarówki odkryłem pasję do sztucznej inteligencji i pracy z danymi. Ukończyłem intensywne szkolenie "Od 0 do AI" i teraz, mimo braku wcześniejszego doświadczenia w programowaniu, tworzę aplikacje takie jak "Creative Paintings", generującą kolorowanki. Ponadto ukończyłem kilka projektów eksploracyjnej analizy danych (EDA). Aktualnie kontynuuję swoją edukację w ramach rozszerzonego kursu MasterClass, gdzie uczę się pracy zespołowej nad zaawansowanymi projektami. Nigdy nie przypuszczałem, że zostanę data scientist, ale ta dziedzina przynosi mi ogromną satysfakcję i radość. Czekam z niecierpliwością na kolejne wyzwania i projekty!
 
@@ -16,9 +17,9 @@ tel: +48 666 833 321
 
 Zobacz, jak opowiadałem o mojej drodzę z AI i rozwoju w branży w podcaście "AI w Biznesie". Od kierownicy do specjalisty – kliknij i poznaj szczegóły!<br>
 
-<iframe width="560" height="315" src="https://youtu.be/B2Y-TFaJj0Q" title="Wywiad AI w Biznesie" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2Y-TFaJj0Q" title="Wywiad AI w Biznesie" frameborder="0" allowfullscreen></iframe>
 
 [Obejrzyj na YouTube](https://youtu.be/B2Y-TFaJj0Q) | 
-Kluczowe fragmenty: Moja droga (00:40-10:39)
-                    Projekt Creative Paintings (10:40-22:45)
+Kluczowe fragmenty:<br> Moja droga (00:40-10:39)<br>
+                    Projekt Creative Paintings (10:40-22:45)<br>
                     Zaangażowanie (36:26-44:18)
