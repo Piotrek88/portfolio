@@ -15,6 +15,6 @@ theme:
 nav:
 - Strona Domowa: index.md
 - Obecny projekt:
-  - "Titanic": titanic/index.md
 - Poprzednie projekty:
-  - "Iris": iris/index.md
+  - "Titanic": docs/titanic/index.md
+  - "Iris": docs/iris/index.md
