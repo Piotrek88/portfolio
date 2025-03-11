@@ -1,12 +1,14 @@
 # Analiza EDA Danych Iris
 
+*Data utworzenia: 2024-09-14
+
 Zapraszam do zapoznania się z moją analizą danych irysów za pomocą eksploracji domenowej (EDA). W tej analizie znajdują się wnioski i ciekawe obserwacje o tych pięknych kwiatach. 
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="edairis.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 <iframe
     id="content"
-    src="iris.html"
+    src="edairis.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>
