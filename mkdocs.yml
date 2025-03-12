@@ -16,5 +16,6 @@ nav:
   - O mnie: index.md
   - Poprzednie projekty:
     - "Creative Paintings": Creative Paintings/index.md
+    - "Łowca Danych": Łowca Danych/index.md
     - "Titanic": Titanic/index.md
     - "Iris": Iris/index.md
