@@ -12,7 +12,7 @@ Umiejętnośći:
  - Matplotlib (do tworzenia wizualizacji i wykresów)
 
 **Przykładowe zdjecia:**<br>
-![alt text](<lowcadanych>.jpg>)
+![alt text](<lowcadanych.jpg>)
 ![alt text](<lowcadanych1.jpg>)
 
 Aplikacja została wdrożona w aplikacji Streamlit Community App i jest dostępna do użytku publicznego.
