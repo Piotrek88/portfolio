@@ -11,16 +11,17 @@ W tym projekcie zostały wykorzystane dwa modele sztucznej inteligencji od OpenA
 
  - Model **DALL·E 3** zdolny do tworzenia unikalnych i kreatywnych kolorowanek na podstawie opisów tekstowych.
  - Model **Moderation** służy do filtrowania i blokowania nieodpowiednich lub szkodliwych treści, zapewniając bezpieczną i zgodną z zasadami wymianę informacji. 
- <br><br><br>
-Umiejętnośći:  
- - Python
- - psycopg2 (do interakcji z bazami danych PostgreSQL)
- - OpenAI (do integracji z API OpenAI)
- - Requests (do wykonywania żądań HTTP)
- - Streamlit (do budowy aplikacji webowych)
- - PIL (Python Imaging Library, użyta do przetwarzania obrazów)
- - st_paywall (do autoryzacji,)
- - Pandas (do manipulacji i analizy danych)
+ <br><br>
+
+Umiejętnośći:  <br>
+ - Python<br>
+ - psycopg2<br>
+ - OpenAI <br>
+ - Requests<br>
+ - Streamlit <br>
+ - PIL <br>
+ - st_paywall <br>
+ - Pandas <br>
  
 Życzę miłej zabawy!
 <br><br>
