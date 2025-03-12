@@ -10,10 +10,11 @@ repo_url: https://github.com/Piotrek88/portfolio
 theme:
   name: material
   palette:
-    primary: deep red
+    primary: red
 
 nav:
   - O mnie: index.md
   - Poprzednie projekty:
+    - "Creative Paintings": Creative Paintings/index.md
     - "Titanic": Titanic/index.md
     - "Iris": Iris/index.md
