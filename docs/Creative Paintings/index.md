@@ -1,8 +1,8 @@
 
 # Creative Paintings - generator kolorowanek
 
-*Data rozpoczęcia: 2024-11-15<br>
-*Data ukończenia: 2024-12-02<br>
+* Data rozpoczęcia: 2024-11-15<br>
+* Data ukończenia: 2024-12-02<br>
 
 ![alt text](<cp.png>)
 

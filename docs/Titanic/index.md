@@ -1,6 +1,6 @@
 # Analiza EDA Danych Titanic
 
-*Data utworzenia: 2024-09-15
+* Data utworzenia: 2024-09-15
 
 Zapraszam do zapoznania się z moją analizą danych Titanica za pomocą eksploracji domenowej (EDA). W tej analizie znajdują się wnioski i ciekawe obserwacje o ofiarach tej katastrofy. 
 
