@@ -1,7 +1,7 @@
 
 # Creative Paintings - generator kolorowanek
 
-*Data rozpoczęcia: 2024-11-15
+*Data rozpoczęcia: 2024-11-15<br>
 *Data ukończenia: 2024-12-02<br>
 
 ![alt text](<cp.png>)
@@ -11,7 +11,7 @@ W tym projekcie zostały wykorzystane dwa modele sztucznej inteligencji od OpenA
 
  - Model **DALL·E 3** zdolny do tworzenia unikalnych i kreatywnych kolorowanek na podstawie opisów tekstowych.
  - Model **Moderation** służy do filtrowania i blokowania nieodpowiednich lub szkodliwych treści, zapewniając bezpieczną i zgodną z zasadami wymianę informacji. 
- <br>
+ <br><br><br>
 Umiejętnośći:  
  - Python
  - psycopg2 (do interakcji z bazami danych PostgreSQL)
@@ -23,6 +23,7 @@ Umiejętnośći:
  - Pandas (do manipulacji i analizy danych)
  
 Życzę miłej zabawy!
+<br><br>
 
 <a href="https://creative-paintings.ppawlowski.com" class="md-button md-button--primary">Przejdz do aplikacji</a>
 <br><br>
