@@ -1,6 +1,6 @@
 # NexSight - Finansowa Platforma Analizy Danych
 
-* Data rozpoczęcia: 2024-06-18<br>
+* Data rozpoczęcia: 2025-06-18<br>
  <br>
 
 ## Opis

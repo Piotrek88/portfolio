@@ -1,7 +1,7 @@
 # diet-improver - Aplikacja do śledzenia i analizowania posiłków
 
-* Data rozpoczęcia: 2024-03-18<br>
-* Data ukończenia: 2024-05-06<br>
+* Data rozpoczęcia: 2025-03-18<br>
+* Data ukończenia: 2025-05-06<br>
 
 ## Opis
 
