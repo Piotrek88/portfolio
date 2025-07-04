@@ -1,7 +1,7 @@
 # Analiza EDA Archiwalnych Danych z JostJoinIT
 <br>
 
-* Data utworzenia: 2025-02-17
+* Data utworzenia: 2025-02-17 <br> <br>
 <br>
 Zapraszam do zapoznania się z moją analizą danych historycznych ofert pracy z portalu JustJoin.IT za pomocą eksploracji domenowej (EDA). W tej analizie znajdują się wnioski i ciekawe obserwacje o ofertach pracy. 
 <br>
