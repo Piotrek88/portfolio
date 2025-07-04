@@ -14,7 +14,10 @@ theme:
 
 nav:
   - O mnie: index.md
+  - Aktualne projekty:
+    - "nexsight": nexsight/index.md
   - Poprzednie projekty:
+    - "diet-improver": diet-improver/index.md
     - "Creative Paintings": Creative Paintings/index.md
     - "Mój ChatBot": Moj ChatBot/index.md
     - "Projekt Praca": Projekt Praca/index.md
