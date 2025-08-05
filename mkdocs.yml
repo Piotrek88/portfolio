@@ -17,6 +17,7 @@ nav:
   - Aktualne projekty:
     - "nexsight": nexsight/index.md
   - Poprzednie projekty:
+    - "ETL System": ETL System/index.md
     - "diet-improver": diet-improver/index.md
     - "Creative Paintings": Creative Paintings/index.md
     - "Mój ChatBot": Moj ChatBot/index.md

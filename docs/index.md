@@ -12,7 +12,10 @@ Od momentu rozpoczęcia mojej przygody z AI w 2024 roku, stworzyłem **10+ proje
 - **NexSight** - Zaawansowana platforma analizy danych finansowych z predykcją trendów
 - **Creative Paintings** - Generator kolorowanek wykorzystujący DALL-E 3
 - **Mój ChatBot** - Własna implementacja ChatGPT z zarządzaniem konwersacjami
-- **Diet Improver** - Aplikacja do analizy posiłków z wykorzystaniem GPT-4o-mini
+
+### 🏢 **Projekty korporacyjne**
+- **ETL System** - Kompleksowy system ETL dla GOTOIT sp. z o.o. (Lider zespołu)
+- **Diet Improver** - Aplikacja do analizy posiłków z wykorzystaniem GPT-4o-mini dla Imprv.ai sp. z.o.o.
 
 ### 📊 **Projekty Data Science**
 - **Find Friends** - System klastrowania użytkowników z analizą preferencji
@@ -31,8 +34,11 @@ Od momentu rozpoczęcia mojej przygody z AI w 2024 roku, stworzyłem **10+ proje
 - **Data Visualization** (Plotly, Matplotlib)
 - **Web Development** (Streamlit, FastAPI, Uvicorn)
 - **Database** (PostgreSQL, SQLAlchemy)
+- **DevOps & Cloud** (Docker, Digital Ocean, Redis, Dramatiq)
+- **Leadership** (Zarządzanie zespołem, Code Review, Project Management)
 
 ## 🌟 **Najnowsze osiągnięcia**
+- **ETL System** - Lider zespołu w projekcie korporacyjnym dla GOTOIT sp. z o.o. (2025)
 - **NexSight** - Kompleksowa platforma finansowa z predykcją trendów (2025)
 - **Diet Improver** - Aplikacja analizy żywienia z AI (2025)
 - Wystąpienie w podcaście "AI w Biznesie" o mojej drodze z AI

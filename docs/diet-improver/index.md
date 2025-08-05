@@ -34,8 +34,5 @@ Umiejętnośći:  <br>
 ![Statystyki i wykresy](s3.png)
 
 <br><br>
-
-<a href="https://diet-improver-99ete.ondigitalocean.app/" class="md-button md-button--primary">Przejdź do aplikacji</a>
-<br> <br>
 Rola w projekcie: Data Scientist / Python Backend Developer
 
