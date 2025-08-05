@@ -2,6 +2,8 @@
 
 * Data rozpoczęcia: 2025-03-18<br>
 * Data ukończenia: 2025-05-06<br>
+* Rola: Data Scientist / Python Backend Developer
+* Firma: Imprv.ai sp. z.o.o.
 
 ## Opis
 
@@ -12,18 +14,16 @@ Diet Improver to aplikacja webowa stworzona w Streamlit, która umożliwia użyt
 - **Śledzenie historii posiłków** - przeglądanie wszystkich dodanych posiłków
 - **Przeglądanie statystyk i wykresów** - analiza spożytych posiłków w różnych okresach czasu
 
-Umiejętnośći:  <br>
+Umiejętności:  <br>
  - Python<br>
  - psycopg2-binary<br>
  - OpenAI <br>
  - instructor<br>
  - Streamlit <br>
- - OpenAI <br>
- - PILL <br>
+ - PIL (Pillow)<br>
  - Pandas <br>
  - pypika <br>
  - bcrypt  <br>
- - Pandas <br>
  - Plotly <br>
  - boto3 <br>
 
@@ -33,6 +33,4 @@ Umiejętnośći:  <br>
 ![Analiza posiłku](s2.png)
 ![Statystyki i wykresy](s3.png)
 
-<br><br>
-Rola w projekcie: Data Scientist / Python Backend Developer
 

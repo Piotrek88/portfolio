@@ -23,4 +23,4 @@ Funkcjonalności aplikacji:<br>
 <br><br>
 Aplikacja, wdrożona na platformie Streamlit Community App, umożliwia mi zgłębianie tajników sztucznej inteligencji i systematyczne doskonalenie umiejętności programistycznych.
 
-**Link to repozytorium:**https://github.com/Piotrek88/naszgpt_langfuse<br>
+**Link do repozytorium:** https://github.com/Piotrek88/naszgpt_langfuse<br>

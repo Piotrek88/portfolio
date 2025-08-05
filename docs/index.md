@@ -15,7 +15,7 @@ Od momentu rozpoczęcia mojej przygody z AI w 2024 roku, stworzyłem **10+ proje
 
 ### 🏢 **Projekty korporacyjne**
 - **ETL System** - Kompleksowy system ETL dla GOTOIT sp. z o.o. (Lider zespołu)
-- **Diet Improver** - Aplikacja do analizy posiłków z wykorzystaniem GPT-4o-mini dla Imprv.ai sp. z.o.o.
+- **Diet Improver** - Aplikacja analizy żywienia z AI dla Imprv.ai sp. z.o.o.
 
 ### 📊 **Projekty Data Science**
 - **Find Friends** - System klastrowania użytkowników z analizą preferencji
@@ -40,7 +40,7 @@ Od momentu rozpoczęcia mojej przygody z AI w 2024 roku, stworzyłem **10+ proje
 ## 🌟 **Najnowsze osiągnięcia**
 - **ETL System** - Lider zespołu w projekcie korporacyjnym dla GOTOIT sp. z o.o. (2025)
 - **NexSight** - Kompleksowa platforma finansowa z predykcją trendów (2025)
-- **Diet Improver** - Aplikacja analizy żywienia z AI (2025)
+- **Diet Improver** - Aplikacja analizy żywienia z AI dla Imprv.ai sp. z.o.o. (2025)
 - Wystąpienie w podcaście "AI w Biznesie" o mojej drodze z AI
 
 Jestem osobą która dąży do realizacji wyznaczonych celów, dającą z siebie maksimum zaangażowania. Każdy projekt to nowe wyzwanie i okazja do rozwoju. Zapraszam do współpracy!
@@ -54,7 +54,7 @@ tel: +48 666 833 321
 
 ## Wywiad: Moja droga z AI
 
-Zobacz, jak opowiadałem o mojej drodzę z AI i rozwoju w branży w podcaście "AI w Biznesie". Od kierownicy do specjalisty – kliknij i poznaj szczegóły!<br>
+Zobacz, jak opowiadałem o mojej drodze z AI i rozwoju w branży w podcaście "AI w Biznesie". Od kierownicy do specjalisty – kliknij i poznaj szczegóły!<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2Y-TFaJj0Q" title="Wywiad AI w Biznesie" frameborder="0" allowfullscreen></iframe>
 

@@ -13,7 +13,7 @@ W tym projekcie zostały wykorzystane dwa modele sztucznej inteligencji od OpenA
  - Model **Moderation** służy do filtrowania i blokowania nieodpowiednich lub szkodliwych treści, zapewniając bezpieczną i zgodną z zasadami wymianę informacji. 
  <br><br>
 
-Umiejętnośći:  <br>
+Umiejętności:  <br>
  - Python<br>
  - psycopg2<br>
  - OpenAI <br>
@@ -26,10 +26,10 @@ Umiejętnośći:  <br>
 Życzę miłej zabawy!
 <br><br>
 
-<a href="https://creative-paintings.ppawlowski.com" class="md-button md-button--primary">Przejdz do aplikacji</a>
+<a href="https://creative-paintings.ppawlowski.com" class="md-button md-button--primary">Przejdź do aplikacji</a>
 <br><br>
 
-**Przykładowe zdjecia:**<br>
+**Przykładowe zdjęcia:**<br>
 ![alt text](<cp1.jpg>)
 ![alt text](<cp2.jpg>)
 ![alt text](<cp3.jpg>)

@@ -1,4 +1,4 @@
-# Analiza EDA Archiwalnych Danych z JostJoinIT
+# Analiza EDA Archiwalnych Danych z JustJoinIT
 <br>
 
 * Data utworzenia: 2025-02-17 

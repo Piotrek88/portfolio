@@ -20,7 +20,7 @@ Umiejętności:  <br>
 - FastAPI<br>
 - Uvicorn<br>
 - Pandas<br>
-- Numpy<br>
+- NumPy<br>
 - SQLAlchemy<br>
 - psycopg2<br>
 - Plotly<br>
@@ -30,10 +30,10 @@ Umiejętności:  <br>
 - Prophet<br>
 - arch (GARCH models)<br>
 - statsmodels<br>
-- tensorflow<br>
-- keras<br>
-- xgboost<br>
-- scipy<br>
+- TensorFlow<br>
+- Keras<br>
+- XGBoost<br>
+- SciPy<br>
 - schedule<br>
 - streamlit-aggrid<br>
 - requests<br>
