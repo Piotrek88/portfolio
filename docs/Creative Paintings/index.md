@@ -23,11 +23,6 @@ Umiejętności:  <br>
  - st_paywall <br>
  - Pandas <br>
  
-Życzę miłej zabawy!
-<br><br>
-
-<a href="https://creative-paintings.ppawlowski.com" class="md-button md-button--primary">Przejdź do aplikacji</a>
-<br><br>
 
 **Przykładowe zdjęcia:**<br>
 ![alt text](<cp1.jpg>)
